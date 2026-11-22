@@ -84,6 +84,8 @@ This repository gives the outline. The courses below teach each round in full.
 
 Related free guides: [OpenAI system design interview](https://github.com/design-gurus/grokking-system-design/blob/main/companies/openai.md), [OpenAI forward deployed engineer interview](https://github.com/design-gurus/forward-deployed-engineer-interview/blob/main/companies/openai.md), [Grokking AI System Design](https://github.com/design-gurus/grokking-ai-system-design), [Grokking Coding Interview](https://github.com/design-gurus/grokking-coding-interview), and [Staff Engineer Interview](https://github.com/design-gurus/staff-engineer-interview).
 
+For the system design round, see [Grokking System Design](https://github.com/design-gurus/grokking-system-design), the free companion guide with 30 patterns, 59 question walkthroughs, and 35 cheat sheets.
+
 ## Contributing
 
 Corrections, new questions, and reports of how an OpenAI loop was run are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
