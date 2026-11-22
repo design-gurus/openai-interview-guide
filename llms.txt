@@ -44,6 +44,7 @@ Each page is short and ends with links to full course lessons and free articles.
 - [Microsoft Interview Guide](https://github.com/design-gurus/microsoft-interview-guide): The whole Microsoft loop: process, coding, system design, behavioral, levels, and a question bank.
 - [Apple Interview Guide](https://github.com/design-gurus/apple-interview-guide): The whole Apple loop: process, coding, system design, behavioral, levels, and a question bank.
 - [Netflix Interview Guide](https://github.com/design-gurus/netflix-interview-guide): The whole Netflix loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Anthropic Interview Guide](https://github.com/design-gurus/anthropic-interview-guide): The whole Anthropic loop: process, coding, system design, behavioral, levels, and a question bank.
 
 ## Optional
 
