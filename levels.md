@@ -1,14 +1,27 @@
 # OpenAI levels and how the interview changes by level
 
-Candidates report OpenAI engineering levels that run from L2 to L6. Senior and staff candidates are reported to go through the same loop as other engineers. The level follows your performance in the loop, not the title you applied for, and team matching calls confirm it near the end.
+Candidates report OpenAI engineering levels that run from L2 to L7. Senior and staff candidates are reported to go through the same loop as other engineers. The level follows your performance in the loop, not the title you applied for, and team matching calls confirm it near the end.
 
-The published sources report the range of levels only. They do not report an official title or a scope definition for each level, so this page does not assign any.
+OpenAI publishes no level system, and most engineers there share one title, Member of Technical Staff. The titles and scopes below are commonly reported, not official, and the mapping to other companies is approximate.
+
+## The reported levels
+
+| Level | Title seen on job postings | Typical scope | Closest Google level |
+|---|---|---|---|
+| **L2** | Software Engineer | Defined tasks inside one team | L3 |
+| **L3** | Software Engineer | Features owned from design to release | L4 |
+| **L4** | Software Engineer, often called Senior | A system or project, with little supervision | L5 |
+| **L5** | Staff Software Engineer (reported) | Technical direction across several teams | L6, or upper L5 in some reports |
+| **L6** | Senior Staff Software Engineer (reported) | Direction for a large product or platform area | L7 |
+| **L7** | Principal Software Engineer (reported) | Direction across the company for one technical field | L8 |
+
+Most reported offers sit at L4 and L5. Some sources describe the range as L2 to L6, because L7 appears only in reports of principal roles.
 
 ## What is reported
 
 | Topic | What candidates report |
 |---|---|
-| Level range | L2 to L6 |
+| Level range | L2 to L7, with L7 reported for principal roles |
 | Loop for senior and staff candidates | The same loop as other engineering candidates |
 | How the level is set | By performance in the interviews |
 | Where the level is confirmed | In team matching calls, after a pass |
@@ -51,5 +64,7 @@ Recruiters are reported to share the content of a specific loop when asked. A do
 - Lesson: [How Hiring Committees Decide Between Senior and Staff](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/how-hiring-committees-decide-between-senior-and-staff?utm_source=github&utm_medium=repo&utm_campaign=openai-interview-guide&utm_content=levels), in Grokking Staff Engineer Interview
 - Lesson: [Down Leveling: Causes and Responses](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/down-leveling-causes-and-responses?utm_source=github&utm_medium=repo&utm_campaign=openai-interview-guide&utm_content=levels), in Grokking Staff Engineer Interview
 - Lesson: [Negotiating the Level](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/negotiating-the-level?utm_source=github&utm_medium=repo&utm_campaign=openai-interview-guide&utm_content=levels), in Grokking Staff Engineer Interview
+- Free article: [OpenAI Software Engineer Levels Explained](https://www.designgurus.io/blog/openai-software-engineer-levels?utm_source=github&utm_medium=repo&utm_campaign=openai-interview-guide&utm_content=levels), with years of experience and how pay is built at each level
+- Free guide: [OpenAI levels](https://github.com/design-gurus/software-engineer-levels/blob/main/companies/openai.md) in the Software Engineer Levels repository
 - Free article: [OpenAI Interview Guide: Process, Questions, and How to Prepare](https://www.designgurus.io/blog/openai-interview-guide?utm_source=github&utm_medium=repo&utm_campaign=openai-interview-guide&utm_content=levels)
 - Free guide: [Software Engineer Levels](https://github.com/design-gurus/software-engineer-levels), with ladders for other companies
